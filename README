@@ -1,0 +1,10 @@
+1. inside  /src is main.c
+2. inside  /res is jpeg file 
+3. inside lib* is the sub function used in main  
+
+
+how to compile and use
+
+cd build
+cmake ..
+sudo make 
